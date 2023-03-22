@@ -50,10 +50,24 @@ The model is optimized to improve its accuracy by trying different adjustments, 
 
 Here is the comparison between the three models created:
 
-<img src="Images/...png" height=60% width=60%>
+**Original Model**
+
+<img src="Images/original_model.png" height=60% width=60%>
 
 
-The main conclusion from this report is that ...
+**Alternative Model 1**
+
+<img src="Images/alternative_model_1.png" height=60% width=60%>
+
+
+**Alternative Model 2**
+
+<img src="Images/alternative_model_2.png" height=60% width=60%>
+
+
+After compiling the three models, we see that the original model has a loss of 0.6509 and an accuracy of 0.7223, Alternative Model 1 has a lower loss of 0.6322 and a slightly higher accuracy of 0.7248, and Alternative Model 2 has the lowest loss of 0.5702 and a slightly higher accuracy of 0.7262.
+
+Overall, the **second alternative model** appears to be the best performing model among the three based on the metrics analyzed. In this case, the improvement came from adding more hidden layers and modifying the activation function in some of them.
 
 ---
 
